@@ -1,0 +1,7 @@
+C:\Users\yb\documents\visual studio 2015\Projects\ConsoleTest\Lxq.Log\bin\Debug\Log4Net.config
+C:\Users\yb\documents\visual studio 2015\Projects\ConsoleTest\Lxq.Log\bin\Debug\Lxq.Log.dll
+C:\Users\yb\documents\visual studio 2015\Projects\ConsoleTest\Lxq.Log\bin\Debug\Lxq.Log.pdb
+C:\Users\yb\documents\visual studio 2015\Projects\ConsoleTest\Lxq.Log\bin\Debug\log4net.dll
+C:\Users\yb\documents\visual studio 2015\Projects\ConsoleTest\Lxq.Log\bin\Debug\log4net.xml
+C:\Users\yb\documents\visual studio 2015\Projects\ConsoleTest\Lxq.Log\obj\Debug\Lxq.Log.dll
+C:\Users\yb\documents\visual studio 2015\Projects\ConsoleTest\Lxq.Log\obj\Debug\Lxq.Log.pdb
